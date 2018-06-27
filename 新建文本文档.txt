@@ -1,0 +1,7 @@
+1.建立仓库
+2.克隆地址
+3.建立远程连接 cd 仓库名
+4.初始化 git init
+5.指令 git commit -m ""
+5.添加文件 git add
+6.上传文件 git push
